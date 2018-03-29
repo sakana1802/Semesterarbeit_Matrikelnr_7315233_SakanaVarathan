@@ -1,0 +1,56 @@
+
+<filmsammlung>
+
+<Filme>
+
+<standardfilme>
+
+
+<movies>
+
+<Film="2" titel>P.s. Ich liebe dich</titel>
+
+
+<filminformationen>
+
+<laenge>126min</laenge>
+
+<genre>Tragikomoedie,Romanze</genre>
+
+<altersbeschraenkung>ab 0 Jahren</altersbeschraenkung>
+
+
+
+</filminformationen>
+
+</movies>
+
+</standardfilme>
+
+
+<besonderefilme>
+
+<premiere>
+
+<Film="2" titel>Tamasha</titel>
+
+
+<filminformationen>
+
+<laenge>139min</laenge>
+
+<genre>Drama,Komoedie,Romantik,Bollywood</genre>
+
+<altersbeschraenkung>ab 0 Jahren</altersbeschraenkung>
+
+
+
+</filminformationen>
+
+</premiere>
+
+</besonderefilme>
+
+</Filme>
+
+</filmsammlung>

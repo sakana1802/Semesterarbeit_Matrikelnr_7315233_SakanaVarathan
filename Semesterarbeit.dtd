@@ -1,0 +1,16 @@
+﻿
+
+<!ELEMENT filmsammlung (name, Filme)>
+
+<!ELEMENT Filme (standartfilme, besonderefilme)>
+
+<!ELEMENT standartfilme (movies)>
+
+<!ELEMENT movies (titel, filminformationen+)>
+
+<!ELEMENT besonderefilme (premiere+)>
+
+<!ELEMENT premiere (titel, filminformationen+)>
+
+<!ELEMENT filminformationen (laenge+, genre+, altersbeschraenkung+)>
+
